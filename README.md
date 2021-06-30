@@ -1,2 +1,2 @@
 # What-s-the-Weather-Like-
-Api challenge for the data analytics bootcamp
+This code uses API's to collect data from a site and analyze different aspects of it
